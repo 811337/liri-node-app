@@ -14,4 +14,27 @@ the IMDB rating, the Rotten Tomatoes rating, the country where it was made, lang
 * node liri.js do-what-it-says: Takes information from the 'random.txt' file and runs it.
 
 ## Demo
-https://docs.google.com/document/d/1o4rXk7XckFIGTHBYkXxnkVMccWfl9Aw7Xio8vTTqrDw/edit?usp=sharing
+
+concert-this “Elton John”
+
+![Image](/screenshots/1.png)
+
+
+spotify-this-song “Boulevard of Broken Dreams”
+
+![Image](/screenshots/2.png)
+
+
+movie-this “Lord of the Rings”
+
+![Image](/screenshots/3.png)
+
+
+do-what-it-says
+
+![Image](/screenshots/4.png)
+
+
+The default without any commands after liri.js shows “Invalid”
+
+![Image](/screenshots/5.png)
